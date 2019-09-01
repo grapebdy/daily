@@ -2,6 +2,7 @@
 #define __LIB_LEET_H__
 
 #include <stdio.h>
+#include <stdlib.h>
 
-int lib_test();
+int* twoSum(int* nums, int numsSize, int target, int* returnSize);
 #endif
