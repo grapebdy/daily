@@ -45,26 +45,26 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2)
 {
-
+	return NULL;
 }
 
 int lengthOfLongestSubstring(char * s)
 {
-
+	return 0;
 }
 
 double findMedianSortedArrays(int* nums1,
 		int nums1Size, int* nums2, int nums2Size)
 {
-
+	return 0;
 }
 
 char * longestPalindrome(char * s)
 {
-
+	return NULL;
 }
 
 char * convert(char * s, int numRows)
 {
-
+	return NULL;
 }
