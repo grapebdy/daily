@@ -12,7 +12,8 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
-int* twoSum(int* nums, int numsSize, int target, int* returnSize){
+int* twoSum(int* nums, int numsSize, int target, int* returnSize)
+{
 
 	int cnt = 0;
 	int index = 0;
@@ -32,4 +33,38 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 	}
 
 	return NULL;
+}
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
+
+struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2)
+{
+
+}
+
+int lengthOfLongestSubstring(char * s)
+{
+
+}
+
+double findMedianSortedArrays(int* nums1,
+		int nums1Size, int* nums2, int nums2Size)
+{
+
+}
+
+char * longestPalindrome(char * s)
+{
+
+}
+
+char * convert(char * s, int numRows)
+{
+
 }
