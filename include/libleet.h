@@ -3,6 +3,5 @@
 
 #include <stdio.h>
 
-int* twoSum(int* nums, int numsSize, int target, int* returnSize);
-
+int lib_test();
 #endif
